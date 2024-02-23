@@ -52,7 +52,7 @@ every_account_tx = 1
 ```
 The above configuration file will connect to the node `ws://127.0.0.1:9944`, then create 66,000 accounts, with each account sending one transaction.
 
-### 运行命令
+### Run Command
 Begin the benchmark with the following command:
 ```
 CONFIG_PATH=./config.toml ./benchmark 
