@@ -23,7 +23,7 @@ Memory: 16 GB
 | 4ThreadBlockSTM | 19607 |
 
 # Quick Start
-We provide some precompiled programs and testing tools for those interested in testing the performance of Substrate BlockSTM.
+We provide some compiled programs and testing tools for those interested in testing the performance of Substrate BlockSTM.
 You can find these binary files in the release section of the current repository.
 
 ## Run BlockChain Node
